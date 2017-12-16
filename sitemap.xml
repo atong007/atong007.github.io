@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://atong007.github.io/2017/12/16/hexo-ariticle/</loc>
+    <loc>https://atong007.github.io/2017/12/16/hexo-test/</loc>
     
-    <lastmod>2017-12-16T02:22:11.079Z</lastmod>
+    <lastmod>2017-12-16T02:31:10.836Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://atong007.github.io/2017/12/15/helo-world/</loc>
     
-    <lastmod>2017-12-16T02:22:10.924Z</lastmod>
+    <lastmod>2017-12-16T02:29:47.097Z</lastmod>
     
   </url>
   
@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://atong007.github.io/about/index.html</loc>
-    
-    <lastmod>2017-12-15T10:12:30.366Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://atong007.github.io/books/index.html</loc>
     
     <lastmod>2017-12-15T10:12:30.366Z</lastmod>
@@ -52,6 +45,13 @@
   
   <url>
     <loc>https://atong007.github.io/categories/index.html</loc>
+    
+    <lastmod>2017-12-15T10:12:30.366Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://atong007.github.io/about/index.html</loc>
     
     <lastmod>2017-12-15T10:12:30.366Z</lastmod>
     
